@@ -1,1 +1,0 @@
-Descomprimir los archivos en Data.rar antes de utilizarlos en cualquier entorno python o jupyternotebook
