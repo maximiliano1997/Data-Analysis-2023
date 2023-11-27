@@ -1,0 +1,9 @@
+datos = {
+    "nombre": "Imanol",
+    "edad": 26,
+    "hobbies": [
+        "correr",
+        "leer",
+        "viajar"
+    ]
+}
