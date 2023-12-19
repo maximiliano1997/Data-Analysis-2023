@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "name": "The Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "year": 2020
+    },
+    {
+        "id": 2,
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Neuromancer",
+        "author": "William Gibson",
+        "year": 2020
+    },
+    {
+        "id": 4,
+        "name": "Snow Crash",
+        "author": "Neal Stephenson",
+        "year": 2020
+    },
+    {
+        "id": 5,
+        "name": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "year": 2020
+    },
+    {
+        "id": 6,
+        "name": "Foundation",
+        "author": "Isaac Asimov",
+        "year": 2020
+    },
+    {
+        "id": 7,
+        "name": "Hyperion",
+        "author": "Dan Simmons",
+        "year": 2020
+    },
+    {
+        "id": 8,
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 2020
+    },
+    {
+        "id": 9,
+        "name": "Ender's Game",
+        "author": "Orson Scott Card",
+        "year": 2020
+    },
+    {
+        "id": 10,
+        "name": "Altered Carbon",
+        "author": "Richard K. Morgan",
+        "year": 2020
+    },
+    {
+        "id": 11,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "year": 2020
+    },
+    {
+        "id": 12,
+        "name": "The Expanse: Leviathan Wakes",
+        "author": "James S.A. Corey",
+        "year": 2020
+    },
+    {
+        "id": 13,
+        "name": "I, Robot",
+        "author": "Isaac Asimov",
+        "year": 2020
+    },
+    {
+        "id": 14,
+        "name": "The Martian",
+        "author": "Andy Weir",
+        "year": 2020
+    },
+    {
+        "id": 15,
+        "name": "Starship Troopers",
+        "author": "Robert A. Heinlein",
+        "year": 2020
+    },
+    {
+        "id": 16,
+        "name": "The Three-Body Problem",
+        "author": "Liu Cixin",
+        "year": 2020
+    },
+    {
+        "id": 17,
+        "name": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "year": 2020
+    },
+    {
+        "id": 18,
+        "name": "The Time Machine",
+        "author": "H.G. Wells",
+        "year": 2020
+    },
+    {
+        "id": 19,
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "year": 2020
+    },
+    {
+        "id": 20,
+        "name": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "year": 2020
+    },
+    {
+        "id": 21,
+        "name": "Alita: Battle Angel",
+        "author": "Yukito Kishiro",
+        "year": 2020
+    },
+    {
+        "id": 22,
+        "name": "Jurassic Park",
+        "author": "Michael Crichton",
+        "year": 2020
+    },
+    {
+        "id": 23,
+        "name": "Contact",
+        "author": "Carl Sagan",
+        "year": 2020
+    },
+    {
+        "id": 24,
+        "name": "The Windup Girl",
+        "author": "Paolo Bacigalupi",
+        "year": 2020
+    },
+    {
+        "id": 25,
+        "name": "The Fifth Season",
+        "author": "N.K. Jemisin",
+        "year": 2020
+    },
+    {
+        "id": 26,
+        "name": "Dark Matter",
+        "author": "Blake Crouch",
+        "year": 2020
+    },
+    {
+        "id": 27,
+        "name": "Red Mars",
+        "author": "Kim Stanley Robinson",
+        "year": 2020
+    },
+    {
+        "id": 28,
+        "name": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "year": 2020
+    },
+    {
+        "id": 29,
+        "name": "Old Man's War",
+        "author": "John Scalzi",
+        "year": 2020
+    },
+    {
+        "id": 30,
+        "name": "Kindred",
+        "author": "Octavia E. Butler",
+        "year": 2020
+    },
+    {
+        "id": 31,
+        "name": "Lock In",
+        "author": "John Scalzi",
+        "year": 2020
+    },
+    {
+        "id": 32,
+        "name": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "year": 2020
+    },
+    {
+        "id": 33,
+        "name": "The Leftovers",
+        "author": "Tom Perrotta",
+        "year": 2020
+    },
+    {
+        "id": 34,
+        "name": "Oryx and Crake",
+        "author": "Margaret Atwood",
+        "year": 2020
+    },
+    {
+        "id": 35,
+        "name": "The City & The City",
+        "author": "China Miéville",
+        "year": 2020
+    },
+    {
+        "id": 36,
+        "name": "The Road",
+        "author": "Cormac McCarthy",
+        "year": 2020
+    },
+    {
+        "id": 37,
+        "name": "The Stand",
+        "author": "Stephen King",
+        "year": 2020
+    },
+    {
+        "id": 38,
+        "name": "The Andromeda Strain",
+        "author": "Michael Crichton",
+        "year": 2020
+    }
+]
